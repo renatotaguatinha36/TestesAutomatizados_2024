@@ -168,3 +168,33 @@ while scheight < 43.9:
        
 # ALTERNATIVA AO ID
 #driver.execute_script('document.getElementById("submitMe").click()')
+
+#idGrupoFaturamento
+
+grupoFaturamento = driver.find_element(By.ID, "idGrupoFaturamento")
+selectGrupoFaturamento = Select(grupoFaturamento)
+selectGrupoFaturamento.select_by_value('1726')
+
+pesquisarResultadoFinal = driver.find_element(By.ID, "botaoPesquisar").click()
+
+time.sleep(10)
+
+######### LOOP PARA FOOTER
+i = 1
+while i <= 5:
+    
+    footer = driver.find_element(By.ID, "tableProcessos_info")
+    #footer = driver.execute_script('document.getElementById("tableProcessos_info")')
+    driver.execute_script("arguments[0].scrollIntoView();", footer)
+    print('It has scrolled ' + str(i) + ' times')
+    print('Now waiting 3 seconds before repeating')
+    time.sleep(5)
+    i = i + 1
+    
+    
+    ########### SCROLL SMOOTHLY 
+ 
+scheight = .1
+while scheight < 43.9:
+    driver.execute_script("window.scrollTo(0, document.body.scrollHeight/%s);" % scheight)
+    scheight += .01

@@ -179,7 +179,7 @@ selectGrupoFaturamento.select_by_value('1726')
 
 pesquisarResultadoFinal = driver.find_element(By.ID, "botaoPesquisar").click()
 
-time.sleep(30)
+time.sleep(10)
 
 ######### LOOP PARA FOOTER
 i = 1
