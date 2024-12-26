@@ -25351,7 +25351,8 @@ JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js,
 JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
 console.error: ({})
 console.error: ({})
-1735217627471	geckodriver	INFO	Listening on 127.0.0.1:53258
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:53258
 1735217630488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53259" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile2EBTtg"
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
@@ -25385,4 +25386,157 @@ JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js,
 console.error: ({})
 console.error: ({})
 1735218350690	Marionette	INFO	Stopped listening on port 53430
+Dynamically enable window occlusion 1
+1735219119586	geckodriver	INFO	Listening on 127.0.0.1:54468
+1735219122627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54469" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileJTYr2n"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735219123199	Marionette	INFO	Marionette enabled
+1735219123549	Marionette	INFO	Listening on port 54484
+WebDriver BiDi listening on ws://127.0.0.1:54469
+Read port: 54484
+1735219123990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/, line 977: SecurityError: The operation is insecure.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ggas.copergas.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ggas.copergas.com.br."
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+console.error: ({})
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+console.error: ({})
+console.error: ({})
+1735219696998	geckodriver	INFO	Listening on 127.0.0.1:55210
+1735219700044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55211" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileTCsuSq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735219700630	Marionette	INFO	Marionette enabled
+1735219700961	Marionette	INFO	Listening on port 55218
+WebDriver BiDi listening on ws://127.0.0.1:55211
+Read port: 55218
+1735219701437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/, line 977: SecurityError: The operation is insecure.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ggas.copergas.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ggas.copergas.com.br."
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+console.error: ({})
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+console.error: ({})
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/jquery-3.3.1.min.js, line 2: Script terminated by timeout at:
+oe.tokenize@https://ggas.copergas.com.br/ggas-teste-qintess/js/jquery-3.3.1.min.js:2:18809
+oe.compile@https://ggas.copergas.com.br/ggas-teste-qintess/js/jquery-3.3.1.min.js:2:21656
+oe.select@https://ggas.copergas.com.br/ggas-teste-qintess/js/jquery-3.3.1.min.js:2:22351
+oe@https://ggas.copergas.com.br/ggas-teste-qintess/js/jquery-3.3.1.min.js:2:6808
+a.find@https://ggas.copergas.com.br/ggas-teste-qintess/js/jquery-migrate-1.4.1.min.js:2:3686
+e.find@https://ggas.copergas.com.br/ggas-teste-qintess/js/jquery-migrate-3.0.1.min.js:59:18
+handlers@https://ggas.copergas.com.br/ggas-teste-qintess/js/jquery-3.3.1.min.js:2:42234
+dispatch@https://ggas.copergas.com.br/ggas-teste-qintess/js/jquery-3.3.1.min.js:2:41477
+add/y.handle@https://ggas.copergas.com.br/ggas-teste-qintess/js/jquery-3.3.1.min.js:2:39791
+trigger@https://ggas.copergas.com.br/ggas-teste-qintess/js/jquery-3.3.1.min.js:2:69551
+a.event.trigger@https://ggas.copergas.com.br/ggas-teste-qintess/js/jquery-migrate-1.4.1.min.js:2:8275
+simulate@https://ggas.copergas.com.br/ggas-teste-qintess/js/jquery-3.3.1.min.js:2:70054
+n@https://ggas.copergas.com.br/ggas-teste-qintess/js/jquery-3.3.1.min.js:2:70343
+
+1735219828185	Marionette	INFO	Stopped listening on port 55218
+Dynamically enable window occlusion 1
+1735220019149	geckodriver	INFO	Listening on 127.0.0.1:55283
+1735220022174	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55284" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileUM402k"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735220022748	Marionette	INFO	Marionette enabled
+1735220023077	Marionette	INFO	Listening on port 55291
+WebDriver BiDi listening on ws://127.0.0.1:55284
+Read port: 55291
+1735220023431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/, line 977: SecurityError: The operation is insecure.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ggas.copergas.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ggas.copergas.com.br."
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+console.error: ({})
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+console.error: ({})
+console.error: ({})
+1735220293283	Marionette	INFO	Stopped listening on port 55291
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 472: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=1a1f4d35600","state":{"remoteTypePrefix":"webIsolated"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3717,"stack":""}] Barrier: profile-before-change
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1735221189694	geckodriver	INFO	Listening on 127.0.0.1:55454
+1735221192710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55455" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileg0SlWI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735221193307	Marionette	INFO	Marionette enabled
+1735221193658	Marionette	INFO	Listening on port 55464
+WebDriver BiDi listening on ws://127.0.0.1:55455
+Read port: 55464
+1735221194157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/, line 977: SecurityError: The operation is insecure.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ggas.copergas.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ggas.copergas.com.br."
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+console.error: ({})
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+console.error: ({})
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7203: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7281: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7356: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7431: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7506: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7581: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7656: SyntaxError: expected expression, got ','
+console.error: ({})
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+console.error: ({})
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/jquery-migrate-3.0.1.min.js, line 136: Script terminated by timeout at:
+e.event.fix@https://ggas.copergas.com.br/ggas-teste-qintess/js/jquery-migrate-3.0.1.min.js:136:27
+n@https://ggas.copergas.com.br/ggas-teste-qintess/js/jquery-3.3.1.min.js:2:70371
+
+1735221501470	Marionette	INFO	Stopped listening on port 55464
+Dynamically enable window occlusion 1
+1735221515834	geckodriver	INFO	Listening on 127.0.0.1:55535
+1735221518864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55536" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile226j3o"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735221519457	Marionette	INFO	Marionette enabled
+1735221519802	Marionette	INFO	Listening on port 55544
+WebDriver BiDi listening on ws://127.0.0.1:55536
+Read port: 55544
+1735221520243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/, line 977: SecurityError: The operation is insecure.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ggas.copergas.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ggas.copergas.com.br."
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+console.error: ({})
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/jquery-3.3.1.min.js, line 2: Script terminated by timeout at:
+trigger@https://ggas.copergas.com.br/ggas-teste-qintess/js/jquery-3.3.1.min.js:2:68674
+a.event.trigger@https://ggas.copergas.com.br/ggas-teste-qintess/js/jquery-migrate-1.4.1.min.js:2:8275
+simulate@https://ggas.copergas.com.br/ggas-teste-qintess/js/jquery-3.3.1.min.js:2:70054
+n@https://ggas.copergas.com.br/ggas-teste-qintess/js/jquery-3.3.1.min.js:2:70343
+
+1735221669569	Marionette	INFO	Stopped listening on port 55544
 Dynamically enable window occlusion 1
