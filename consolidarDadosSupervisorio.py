@@ -191,8 +191,8 @@ while i <= 5:
     time.sleep(5)
     i = i + 1
     
-    
-    ########### SCROLL SMOOTHLY 
+
+############################### SCROLL SMOOTHLY 
  
 scheight = .1
 while scheight < 43.9:
