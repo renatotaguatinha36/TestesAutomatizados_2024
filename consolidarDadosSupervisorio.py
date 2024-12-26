@@ -96,9 +96,10 @@ time.sleep(60)
 ############### CONSOLIDAR ENGRENAGEM API CONSOLIDAR DADOS SUPERVISÓRIO as vezes fora
 consolidarDadosEngrenagem = driver.find_element(By.XPATH, "/html/body/div[1]/div[2]/div/div[2]/form/div[1]/div[2]/div[2]/div/div[2]/table/tbody/tr[1]/td[9]/a").click()
 
+driver.save_screenshot('consolidar1.png')
 time.sleep(10)
 
-############### OPTION SELECIONAR 
+############### OPTION SELECIONAR  
 driver.find_element(By.XPATH, "/html/body/div[1]/div[2]/div/div[2]/form/div/div[2]/div[2]/div/div[15]/select/option").click()
 
 ######## BUTTON EXECUTAR CONSOLIDAR DADOS
@@ -198,3 +199,7 @@ scheight = .1
 while scheight < 43.9:
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight/%s);" % scheight)
     scheight += .01
+    
+driver.save_screenshot('consolidarSucesso.png')   
+
+time.sleep(20) 
