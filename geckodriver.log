@@ -26037,8 +26037,8 @@ JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalham
 JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7656: SyntaxError: expected expression, got ','
 console.error: ({})
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:57296
-1735303592761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57299" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilenYb9co"
+console.error: "buildList failed: " ({})
+FO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57299" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilenYb9co"
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 Dynamically enable window occlusion 0
@@ -26068,7 +26068,8 @@ JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalham
 console.error: ({})
 JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/js/jquery-3.3.1.min.js, line 2: Error: cannot call methods on dialog prior to initialization; attempted to call method 'open'
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-t" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilexRj3Qa"
+console.error: "buildList failed: " ({})
+r\\AppData\\Local\\Temp\\rust_mozprofilexRj3Qa"
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 Dynamically enable window occlusion 0
@@ -26136,7 +26137,8 @@ console.error: ({})
 JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
 JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
 console.error: ({})
-1735304997884	geckodriver	INFO	Listening on 127.0.0.1:57828
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:57828
 1735305000922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57829" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileudl4Qi"
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
@@ -26196,3 +26198,9 @@ JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalham
 JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 8222: ReferenceError: dwr is not defined
 JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 192: ReferenceError: dwr is not defined
 console.error: ({})
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 238))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 977: SecurityError: The operation is insecure.
+console.error: ({})
+1735317735801	Marionette	INFO	Stopped listening on port 59279
+Dynamically enable window occlusion 1
