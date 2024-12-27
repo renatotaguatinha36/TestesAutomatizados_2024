@@ -14,6 +14,10 @@ from selenium.webdriver import ActionChains
 import selenium.webdriver.common.keys
 import requests
 from bs4 import BeautifulSoup
+import pdb
+import requests
+
+
 options = webdriver.FirefoxOptions()
 
 
@@ -95,7 +99,7 @@ time.sleep(60)
 
 ############### CONSOLIDAR ENGRENAGEM API CONSOLIDAR DADOS SUPERVISÓRIO as vezes fora
 consolidarDadosEngrenagem = driver.find_element(By.XPATH, "/html/body/div[1]/div[2]/div/div[2]/form/div[1]/div[2]/div[2]/div/div[2]/table/tbody/tr[1]/td[9]/a").click()
-
+pdb.set_trace()
 driver.save_screenshot('consolidar1.png')
 time.sleep(10)
 
