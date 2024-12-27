@@ -25999,3 +25999,200 @@ JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalham
 console.error: ({})
 1735294871022	Marionette	INFO	Stopped listening on port 55967
 Dynamically enable window occlusion 1
+1735301410346	geckodriver	INFO	Listening on 127.0.0.1:56838
+1735301413366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56839" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilenLnF8t"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735301414207	Marionette	INFO	Marionette enabled
+1735301414581	Marionette	INFO	Listening on port 56852
+WebDriver BiDi listening on ws://127.0.0.1:56839
+Read port: 56852
+1735301415433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/, line 977: SecurityError: The operation is insecure.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ggas.copergas.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ggas.copergas.com.br."
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+console.error: ({})
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+console.error: ({})
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7203: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7281: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7356: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7431: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7506: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7581: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7656: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 8222: ReferenceError: dwr is not defined
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 192: ReferenceError: dwr is not defined
+console.error: ({})
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7203: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7281: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7356: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7431: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7506: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7581: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7656: SyntaxError: expected expression, got ','
+console.error: ({})
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:57296
+1735303592761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57299" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilenYb9co"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735303595137	Marionette	INFO	Marionette enabled
+1735303595939	Marionette	INFO	Listening on port 57318
+WebDriver BiDi listening on ws://127.0.0.1:57299
+Read port: 57318
+1735303596800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/, line 977: SecurityError: The operation is insecure.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ggas.copergas.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ggas.copergas.com.br."
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+console.error: ({})
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+console.error: ({})
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7203: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7281: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7356: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7431: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7506: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7581: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7656: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 8222: ReferenceError: dwr is not defined
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 192: ReferenceError: dwr is not defined
+console.error: ({})
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/js/jquery-3.3.1.min.js, line 2: Error: cannot call methods on dialog prior to initialization; attempted to call method 'open'
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+t" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilexRj3Qa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735303878416	Marionette	INFO	Marionette enabled
+1735303878760	Marionette	INFO	Listening on port 57439
+WebDriver BiDi listening on ws://127.0.0.1:57432
+Read port: 57439
+1735303879210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/, line 977: SecurityError: The operation is insecure.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ggas.copergas.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ggas.copergas.com.br."
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+console.error: ({})
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+console.error: ({})
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7203: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7281: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7356: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7431: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7506: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7581: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7656: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 8222: ReferenceError: dwr is not defined
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 192: ReferenceError: dwr is not defined
+console.error: ({})
+1735304353864	Marionette	INFO	Stopped listening on port 57439
+Dynamically enable window occlusion 1
+1735304772611	geckodriver	INFO	Listening on 127.0.0.1:57744
+1735304775633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57745" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilek68mQ0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735304776252	Marionette	INFO	Marionette enabled
+1735304776587	Marionette	INFO	Listening on port 57753
+WebDriver BiDi listening on ws://127.0.0.1:57745
+Read port: 57753
+1735304777024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1735304781637	Marionette	INFO	Stopped listening on port 57753
+Dynamically enable window occlusion 1
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 777: TypeError: this.browsingContext is null
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "<no message>"  nsresult: "0x8046001e (<unknown>)"  location: "JS frame :: resource://gre/modules/ServiceRequest.sys.mjs :: open :: line 127"  data: no]
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  [Exception... "<no message>"  nsresult: "0x8046001e (<unknown>)"  location: "JS frame :: resource://gre/modules/ServiceRequest.sys.mjs :: open :: line 127"  data: no]
+console.error: ({})
+console.error: ({})
+1735304814728	geckodriver	INFO	Listening on 127.0.0.1:57769
+1735304817763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57770" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileGMtYXk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735304818359	Marionette	INFO	Marionette enabled
+1735304818696	Marionette	INFO	Listening on port 57777
+WebDriver BiDi listening on ws://127.0.0.1:57770
+Read port: 57777
+1735304819156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/, line 977: SecurityError: The operation is insecure.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ggas.copergas.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ggas.copergas.com.br."
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+console.error: ({})
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+console.error: ({})
+1735304997884	geckodriver	INFO	Listening on 127.0.0.1:57828
+1735305000922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57829" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileudl4Qi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735305001679	Marionette	INFO	Marionette enabled
+1735305002291	Marionette	INFO	Listening on port 57836
+Read port: 57836
+WebDriver BiDi listening on ws://127.0.0.1:57829
+1735305002664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/, line 977: SecurityError: The operation is insecure.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ggas.copergas.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ggas.copergas.com.br."
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+console.error: ({})
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+console.error: ({})
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7203: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7281: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7356: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7431: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7506: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7581: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7656: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 8222: ReferenceError: dwr is not defined
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 192: ReferenceError: dwr is not defined
+console.error: ({})
+1735305379043	Marionette	INFO	Stopped listening on port 57836
+Dynamically enable window occlusion 1
+1735307340007	geckodriver	INFO	Listening on 127.0.0.1:59271
+1735307343006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59272" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileEXGSm1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735307343817	Marionette	INFO	Marionette enabled
+1735307344241	Marionette	INFO	Listening on port 59279
+WebDriver BiDi listening on ws://127.0.0.1:59272
+Read port: 59279
+1735307344723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/, line 977: SecurityError: The operation is insecure.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ggas.copergas.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ggas.copergas.com.br."
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+console.error: ({})
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+JavaScript warning: https://ggas.copergas.com.br/ggas-teste-qintess/js/ctmin.js, line 1: unreachable code after return statement
+console.error: ({})
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7203: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7281: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7356: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7431: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7506: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7581: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 7656: SyntaxError: expected expression, got ','
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 8222: ReferenceError: dwr is not defined
+JavaScript error: https://ggas.copergas.com.br/ggas-teste-qintess/exibirDetalhamentoCronogramaAcompanhamento, line 192: ReferenceError: dwr is not defined
+console.error: ({})

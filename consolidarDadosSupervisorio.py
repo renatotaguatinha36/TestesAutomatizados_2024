@@ -94,7 +94,13 @@ time.sleep(10)
 time.sleep(10)
 ###################### DETALHAR CRONOGRAMA
 detalharCronograma = driver.find_element(By.XPATH, "/html/body/div[1]/div[2]/div/div[2]/form/div/div[2]/div[4]/div/div[2]/div/table/tbody/tr/td[3]/a").click()
-time.sleep(60)
+time.sleep(30)
+
+print(detalharCronograma)
+# # Coleta dados de um link <a href
+# rows = driver.find_elements(By.XPATH, "/html/body/div[1]/div[2]/div/div[2]/form/div/div[2]/div[4]/div/div[2]/div/table/tbody/tr/td[3]/a")
+# for row in rows:
+#     print(row.text)
 
 
 ############### CONSOLIDAR ENGRENAGEM API CONSOLIDAR DADOS SUPERVISÓRIO as vezes fora

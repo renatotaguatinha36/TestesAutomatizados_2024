@@ -8,4 +8,8 @@ find_element(By.TAG_NAME, "tag name")
 find_element(By.CLASS_NAME, "class name")
 find_element(By.CSS_SELECTOR, "css selector")
 
+# Switch to the alert and accept it
+alert = driver.switch_to.alert
+alert.accept()
+
 """
